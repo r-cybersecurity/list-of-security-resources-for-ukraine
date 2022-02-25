@@ -31,7 +31,7 @@ Services being offered: Threat Intelligence
 
 Who is eligible: Any organization in the Ukraine.
 
-How are the services accessed: Email ukraine@prevailion.zendesk.com
+How are the services accessed: Email ukraine@prevailion.zendesk.com for free access to Prevailion's APEX platform.
 
 ### Recorded Future
 
