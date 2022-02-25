@@ -23,6 +23,16 @@ Who is eligible: Journalists in Ukraine
 
 How are the services accessed: Contact sa0un on Twitter
 
+### Prevailion
+
+Source of information: https://www.linkedin.com/feed/update/urn:li:activity:6902750306459820032/
+
+Services being offered: Threat Intelligence
+
+Who is eligible: Any organization in the Ukraine.
+
+How are the services accessed: Email ukraine@prevailion.zendesk.com
+
 ### Recorded Future
 
 Source of information: https://twitter.com/cahlberg/status/1496874932273389569
