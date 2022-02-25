@@ -65,6 +65,19 @@ Who is eligible: Unknown (Ukraine?)
 
 How are the services accessed: Unknown
 
+### TCP Direct
+
+Source of information: https://twitter.com/tcpdirect/status/1497017919917678593
+
+Services being offered: Hosting and VPNs
+
+Who is eligible: Unclear
+
+How are the services accessed: 
+twitter: https://twitter.com/tcpdirect
+email: support@akamai.services
+irc: @ircdchat #tcpdirect
+
 ## Resources for Companies/Governments (non-EU/non-Ukraine)
 
 ### Dragos
