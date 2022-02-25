@@ -35,6 +35,16 @@ Who is eligible: All people can access GreyNoise's list of IPs performing recon 
 
 How are the services accessed: Ukrainians & NATO members can access enhanced services by signing up for GreyNoise where they will be automatically upgraded on signup, and existing accounts have been upgraded.
 
+### FlokiNET
+
+Source of information: https://twitter.com/FlokiNETehf/status/1496968251615686657
+
+Services being offered: web infrastructure, DDoS protection.
+
+Who is eligible: Ukrainian journalists & news agencies.
+
+How are the services accessed: Email info@flokinet.is
+
 ### Prevailion
 
 Source of information: https://www.linkedin.com/feed/update/urn:li:activity:6902750306459820032/
