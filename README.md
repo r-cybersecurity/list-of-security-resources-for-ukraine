@@ -78,6 +78,16 @@ twitter: https://twitter.com/tcpdirect
 email: support@akamai.services
 irc: @ircdchat #tcpdirect
 
+### Michael Thiessmeier (Expert), Allied Cyberpartners (company)
+
+Source of information: https://www.linkedin.com/posts/michaelthiessmeier_ukraine-cybersecurity-alliedcyberpartners-activity-6899690456368709632-DDI2
+
+Services being offered: Personal Security & Cybersecurity consulting (individuals and organizations )
+
+Who is eligible: Ukrainians and Ukrainian Organizations
+
+How are the services accessed: Contact directly on LinkedIn or by emailing ukraine@alliedcyberpartners.com
+
 ## Resources for Companies/Governments (non-EU/non-Ukraine)
 
 ### Dragos
