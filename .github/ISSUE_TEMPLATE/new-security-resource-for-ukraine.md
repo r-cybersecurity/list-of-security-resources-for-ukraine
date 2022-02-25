@@ -15,3 +15,7 @@ Source of information: [link, or link to screenshot]
 Offered by: [company name or expert name]
 
 Services being offered: [please list, ex. Incident Response services, Threat Intelligence, etc.]
+
+Who is eligible: [ex. all EU-based NATO members, just Ukranians, or unknown?]
+
+How are the services accessed: [ex. do people not need to sign up at all, do they need to sign up, contact a sales rep, or is this unknown?]
