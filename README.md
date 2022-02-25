@@ -1,5 +1,5 @@
 # List of Cybersecurity Resources for Ukraine
-This is a dictionary of companies or verified experts offering cybersecurity services, data, or other tangible assets to assist in Ukraine's defense of its independence. Secondarily, this may also have resources for other NATO entities in responding to the increasing threat of Russia beyond its own borders.
+This is a dictionary of companies or verified experts offering cybersecurity services, data, or other tangible assets to assist in Ukraine's defense of its independence. Secondarily, this may also have resources for other entities in responding to the increasing threat of Russia beyond its own borders.
 
 ## Resources (Ukraine and EU)
 
