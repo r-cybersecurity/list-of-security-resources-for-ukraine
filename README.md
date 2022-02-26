@@ -63,6 +63,16 @@ Who is eligible: Unclear
 
 How are the services accessed: DM [@tcpdirect](https://twitter.com/tcpdirect), or email support@akamai.services, or use #tcpdirect on ircdchat
 
+### Open Technology Fund
+
+Source of information: https://twitter.com/sa0un/status/1497299556022857730
+
+Services being offered: DDoS mitigation, secure web hosting
+
+Who is eligible: people/organizations in Ukraine
+
+How are the services accessed: DM [@sa0un](https://twitter.com/sa0un/status/1497299556022857730)
+
 ### Prevailion
 
 Source of information: https://www.linkedin.com/feed/update/urn:li:activity:6902750306459820032/
@@ -95,7 +105,7 @@ Who is eligible: Journalists in Ukraine
 
 How are the services accessed: Runa provided her email address in [this tweet](https://twitter.com/runasand/status/1496847746233520128).
 
-### Open Technology Fund via @sa0un (expert)
+### @sa0un (expert)
 
 Source of information: https://twitter.com/sa0un/status/1496962004497711109
 
