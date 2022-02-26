@@ -83,6 +83,16 @@ Who is eligible: Any organization in the Ukraine.
 
 How are the services accessed: Email ukraine@prevailion.zendesk.com for free access to Prevailion's APEX platform.
 
+### Profero
+
+Source of information: https://twitter.com/GelosSnake/status/1497683065799262211
+
+Services being offered: Incident Response, defensive activities
+
+Who is eligible: Unclear
+
+How are the services accessed: Contact @GelosSnake (?)
+
 ### TCP Direct
 
 Source of information: https://twitter.com/tcpdirect/status/1497017919917678593
