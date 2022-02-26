@@ -1,28 +1,6 @@
 # List of Cybersecurity Resources for Ukraine
 This is a dictionary of companies or verified experts offering cybersecurity services, data, or other tangible assets to assist in Ukraine's defense of its independence. Secondarily, this may also have resources for other entities in responding to the increasing threat of Russia beyond its own borders.
 
-## Resources for *Journalists* in the Ukraine
-
-### Runa Sandvik (expert)
-
-Source of information: https://twitter.com/runasand/status/1496847746233520128
-
-Services being offered: individual physical/digital safety consultations, VPN accounts
-
-Who is eligible: Journalists in Ukraine
-
-How are the services accessed: Runa provided her email address in [this tweet](https://twitter.com/runasand/status/1496847746233520128).
-
-### Open Technology Fund via @sa0un (expert)
-
-Source of information: https://twitter.com/sa0un/status/1496962004497711109
-
-Services being offered: VPN accounts
-
-Who is eligible: Journalists in Ukraine
-
-How are the services accessed: Contact sa0un [on Twitter](https://twitter.com/sa0un/status/1496962004497711109)
-
 ## Resources for Companies/Governments (Ukraine and EU)
 
 ### GreyNoise
@@ -104,6 +82,28 @@ Services being offered: Threat Intelligence
 Who is eligible: Unknown (Ukraine?)
 
 How are the services accessed: Unknown
+
+## Resources for *Journalists* in the Ukraine
+
+### Runa Sandvik (expert)
+
+Source of information: https://twitter.com/runasand/status/1496847746233520128
+
+Services being offered: individual physical/digital safety consultations, VPN accounts
+
+Who is eligible: Journalists in Ukraine
+
+How are the services accessed: Runa provided her email address in [this tweet](https://twitter.com/runasand/status/1496847746233520128).
+
+### Open Technology Fund via @sa0un (expert)
+
+Source of information: https://twitter.com/sa0un/status/1496962004497711109
+
+Services being offered: VPN accounts
+
+Who is eligible: Journalists in Ukraine
+
+How are the services accessed: Contact sa0un [on Twitter](https://twitter.com/sa0un/status/1496962004497711109)
 
 ## Resources for Companies/Governments (non-EU/non-Ukraine)
 
