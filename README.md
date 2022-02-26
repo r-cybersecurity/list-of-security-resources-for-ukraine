@@ -45,6 +45,36 @@ Who is eligible: Ukrainian journalists & news agencies.
 
 How are the services accessed: Email info@flokinet.is
 
+### Malware Patrol
+
+Source of information: https://www.linkedin.com/feed/update/urn:li:activity:6903059206522712064/
+
+Services being offered: Free 6 months DNS Firewall service subscription
+
+Who is eligible: Ukraine-based companies and government entities
+
+How are the services accessed: Complete the DNS Firewall evaluation form and put "Ukraine based" in the comments. Then, follow the instructions to set up an evaluation call with Malware Patrol to discuss the set-up for your security environment. https://www.malwarepatrol.net/dns-firewall-evaluation-request/?source=ukraine
+
+### Michael Thiessmeier (Expert), Allied Cyberpartners (company)
+
+Source of information: https://www.linkedin.com/posts/michaelthiessmeier_ukraine-cybersecurity-alliedcyberpartners-activity-6899690456368709632-DDI2
+
+Services being offered: Personal Security & Cybersecurity consulting (individuals and organizations )
+
+Who is eligible: Ukrainians and Ukrainian Organizations
+
+How are the services accessed: Contact directly on LinkedIn or by emailing ukraine@alliedcyberpartners.com
+
+### TCP Direct
+
+Source of information: https://twitter.com/tcpdirect/status/1497017919917678593
+
+Services being offered: Hosting and VPNs
+
+Who is eligible: Unclear
+
+How are the services accessed: DM [@tcpdirect](https://twitter.com/tcpdirect), or email support@akamai.services, or use #tcpdirect on ircdchat
+
 ### Prevailion
 
 Source of information: https://www.linkedin.com/feed/update/urn:li:activity:6902750306459820032/
@@ -64,29 +94,6 @@ Services being offered: Threat Intelligence
 Who is eligible: Unknown (Ukraine?)
 
 How are the services accessed: Unknown
-
-### TCP Direct
-
-Source of information: https://twitter.com/tcpdirect/status/1497017919917678593
-
-Services being offered: Hosting and VPNs
-
-Who is eligible: Unclear
-
-How are the services accessed: 
-twitter: https://twitter.com/tcpdirect
-email: support@akamai.services
-irc: @ircdchat #tcpdirect
-
-### Michael Thiessmeier (Expert), Allied Cyberpartners (company)
-
-Source of information: https://www.linkedin.com/posts/michaelthiessmeier_ukraine-cybersecurity-alliedcyberpartners-activity-6899690456368709632-DDI2
-
-Services being offered: Personal Security & Cybersecurity consulting (individuals and organizations )
-
-Who is eligible: Ukrainians and Ukrainian Organizations
-
-How are the services accessed: Contact directly on LinkedIn or by emailing ukraine@alliedcyberpartners.com
 
 ## Resources for Companies/Governments (non-EU/non-Ukraine)
 
