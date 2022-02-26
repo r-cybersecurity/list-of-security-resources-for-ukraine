@@ -53,16 +53,6 @@ Who is eligible: Ukrainians and Ukrainian Organizations
 
 How are the services accessed: Contact directly on LinkedIn or by emailing ukraine@alliedcyberpartners.com
 
-### TCP Direct
-
-Source of information: https://twitter.com/tcpdirect/status/1497017919917678593
-
-Services being offered: Hosting and VPNs
-
-Who is eligible: Unclear
-
-How are the services accessed: DM [@tcpdirect](https://twitter.com/tcpdirect), or email support@akamai.services, or use #tcpdirect on ircdchat
-
 ### Open Technology Fund
 
 Source of information: https://twitter.com/sa0un/status/1497299556022857730
@@ -82,6 +72,16 @@ Services being offered: Threat Intelligence
 Who is eligible: Any organization in the Ukraine.
 
 How are the services accessed: Email ukraine@prevailion.zendesk.com for free access to Prevailion's APEX platform.
+
+### TCP Direct
+
+Source of information: https://twitter.com/tcpdirect/status/1497017919917678593
+
+Services being offered: Hosting and VPNs
+
+Who is eligible: Unclear
+
+How are the services accessed: DM [@tcpdirect](https://twitter.com/tcpdirect), or email support@akamai.services, or use #tcpdirect on ircdchat
 
 ### Recorded Future
 
