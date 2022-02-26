@@ -35,6 +35,16 @@ Who is eligible: All people can access GreyNoise's list of IPs performing recon 
 
 How are the services accessed: Ukrainians & NATO members can access enhanced services by signing up for GreyNoise where they will be automatically upgraded on signup, and existing accounts have been upgraded.
 
+### Kontinuum
+
+Source of information: Kontinuum reached out to r/cybersecurity via [Reddit](https://www.reddit.com/r/cybersecurity/comments/t0sigy/comment/hyf3x8s/?utm_source=share&utm_medium=web2x&context=3) and [GitHub](https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine/issues/12)
+
+Services being offered: Free Security assessments and free remediation if in our skill set, 30 days free NGAV with SOC monitoring/threat Intel for workstations, servers, mobile devices, real time IP address scanning an blocking of traffic on firewalls. The 30 days can be extended as needed per conditions in Ukraine and heightened alert levels.
+
+Who is eligible: freelance journalists, Ukranians, anyone helping the Ukrainian effort or any company stateside.
+
+How are the services accessed: please send an email to info@kontinuum.com and we will get in touch with you to help where and how we can.
+
 ### FlokiNET
 
 Source of information: https://twitter.com/FlokiNETehf/status/1496968251615686657
