@@ -23,6 +23,16 @@ Who is eligible: freelance journalists, Ukranians, anyone helping the Ukrainian 
 
 How are the services accessed: please send an email to info@kontinuum.com and we will get in touch with you to help where and how we can.
 
+### Intelligence X
+
+Source of information: https://twitter.com/_IntelligenceX/status/1497671064054288384
+
+Services being offered: Full access to OSINT platform
+
+Who is eligible: Ukrainian government
+
+How are the services obtained: Sign up with an email address ending in gov.ua and you will be automatically upgraded
+
 ### FlokiNET
 
 Source of information: https://twitter.com/FlokiNETehf/status/1496968251615686657
