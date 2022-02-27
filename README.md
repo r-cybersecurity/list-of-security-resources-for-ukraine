@@ -113,30 +113,6 @@ Who is eligible: Unknown (Ukraine?)
 
 How are the services accessed: Unknown
 
-## Resources for *Journalists* in the Ukraine
-
-### Runa Sandvik (expert)
-
-Source of information: https://twitter.com/runasand/status/1496847746233520128
-
-Services being offered: individual physical/digital safety consultations, VPN accounts
-
-Who is eligible: Journalists in Ukraine
-
-How are the services accessed: Runa provided her email address in [this tweet](https://twitter.com/runasand/status/1496847746233520128).
-
-### @sa0un (expert)
-
-Source of information: https://twitter.com/sa0un/status/1496962004497711109
-
-Services being offered: VPN accounts
-
-Who is eligible: Journalists in Ukraine
-
-How are the services accessed: Contact sa0un [on Twitter](https://twitter.com/sa0un/status/1496962004497711109)
-
-## Resources for Companies/Governments (non-EU/non-Ukraine)
-
 ### Dragos
 
 Source of information: https://twitter.com/RobertMLee/status/1496862093588455429
@@ -147,9 +123,15 @@ Who is eligible: Small co-op/municipal utilities in US, UK, Australia, New Zeala
 
 How are the services accessed: Contact staff (https://www.linkedin.com/in/robmichaellee)
 
-## Notes
+## Additional Resources
 
-This list is split into offers of assistance for individuals (right now, all known offers are focused on keeping journalists safe/secure), offers of assistance to Ukraine+EU organizations, and offers of assistance to non-Ukraine/non-EU organizations.
+### Chris Culling ([@chrisculling](https://twitter.com/chrisculling))
+
+is also compiling a spreadsheet titled Free Cyber & Humanitarian Services for Ukraine, which has some additional content for businesses needing cybersecurity services, but **also** has content for individuals needing many essential security/communications resources (free texts/calls/connectivity, VPN accounts for journalists, antimalware, etc.).
+
+As his list is exceptionally high quality and extends the services/options available to those in need, we are linking to it instead of duplicating his excellent work: https://docs.google.com/spreadsheets/d/18WYY9p1_DLwB6dnXoiiOAoWYD8X0voXtoDl_ZQzjzUQ/
+
+## Notes
 
 To make this most effective, this repository will **only** take entities which are making tangible commitments to Ukraine or other countries in need. **No** thoughts & prayers are allowed on this list. Further, entities that provide easy to access services will be placed near the top of their section, and those making a specific commitment to provide services to Ukraine but not detailing how Ukrainians could access those services will be placed near the bottom of their section.
 
