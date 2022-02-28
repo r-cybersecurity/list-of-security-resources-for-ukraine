@@ -123,6 +123,16 @@ Who is eligible: Small co-op/municipal utilities in US, UK, Australia, New Zeala
 
 How are the services accessed: Contact staff (https://www.linkedin.com/in/robmichaellee)
 
+### Bitdefender
+
+Source of information: https://www.bitdefender.com/ukraine.html
+
+Products in scope: Consumer and business solutions
+
+Who is eligible: Consumer - Ukraine citizens (free, for as long as needed); Business - Unkraine businesses or public entities (free, for as long as needed); EU & NATO based businesses and public entities (free for 1 year to replace vendor who has technical or geopolitical trust concerns)
+
+Obtaining subscription: complete and submit website form (see link above)
+
 ## Additional Resources
 
 ### Chris Culling ([@chrisculling](https://twitter.com/chrisculling))
