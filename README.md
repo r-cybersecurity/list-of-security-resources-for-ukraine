@@ -1,6 +1,8 @@
 # List of Cybersecurity Resources for Ukraine
 This is a dictionary of companies or verified experts offering cybersecurity services, data, or other tangible assets to assist in Ukraine's defense of its independence. Secondarily, this may also have resources for other entities in responding to the increasing threat of Russia beyond its own borders.
 
+This repository is CC BY-NC-SA 4.0 licensed. Please keep in mind what rights are being retained by the companies and individuals volunteering here if you plan to adapt, remix, or redistribute this work using the rights granted to you. More information is available in issue #22, [CC BY-NC-SA, Personal Privacy, and You](https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine/issues/22).
+
 ## Resources for Companies/Governments (Ukraine and EU)
 
 ### GreyNoise
@@ -82,6 +84,16 @@ Services being offered: eBGP Network peering to filter Malicious IP space, Botne
 Who is eligible: Entities in need in Ukraine
 
 How are the services accessed: Network Engineers / IT Technicians need to contact ukraine@opticnetworks.net in order to setup eBGP peering sessions between their network devices and my eBGP network peer.
+
+### Hypasec (Chris Kubecka)
+
+Source of information: [GitHub issue](https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine/issues/20)
+
+Services being offered: Incident Response services
+
+Who is eligible: EU-based NATO members, Ukranians, journalists, other
+
+How are the services accessed: by email form or phone call listed on hypasec.com
 
 ### Intelligence X
 
