@@ -93,7 +93,7 @@ Who is eligible: Ukrainian government
 
 How are the services obtained: Sign up with an email address ending in gov.ua and you will be automatically upgraded
 
-### Private Individual / Praxis Solutions LLC
+### Private Individual (Phaedrus)
 
 Source of information: https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine/issues/11
 
