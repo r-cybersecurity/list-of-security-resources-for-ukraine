@@ -108,6 +108,16 @@ Who is eligible:
 
 How are the services accessed: Please first contact standing-together@cybelangel.com, afterwards, access will be granted to CybelAngel's SaaS platform
 
+### Hyperproof
+
+Source of information: https://hyperproof.io/cyber-defense-solution/
+
+Services being offered: Hyperproof's compliance operations software (sold typically as an annual subscription) is available for free to all eligible companies for one full year. The software includes a risk register, capabilities for assessing and managing security controls, documenting issues and remediation plans, and automated alerting and monitoring capability for risks and security controls.
+
+Who is eligible: All western companies in the United States and in the European Union which are classified as critical infrastructure sectors. For US companies, we use the definition from CISA. According to CISA, there are 16 critical sectors “whose assets, systems, and networks, whether physical or virtual are considered so vital to the United States that their incapacitation or destruction would have a debilitating effect on security, national economic security, national public health, or any combination thereof.” For EU companies, we use the definition from Council Directive 2008/114/EC.
+
+How are the services accessed: Request access at https://hyperproof.io/cyber-defense-solution/ A rep from Hyperproof will be in touch with the person who made the request, have a quick call to confirm key details including eligibility, and then provision the software to any eligible organization.
+
 ### Hypasec (Chris Kubecka)
 
 Source of information: [GitHub issue](https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine/issues/20)
