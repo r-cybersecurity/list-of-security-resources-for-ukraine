@@ -85,6 +85,16 @@ Who is eligible: Entities in need in Ukraine
 
 How are the services accessed: Network Engineers / IT Technicians need to contact ukraine@opticnetworks.net in order to setup eBGP peering sessions between their network devices and my eBGP network peer.
 
+### MacPaw
+
+Source of information: https://macpaw.com/news/data-protector-spy-buster
+
+Services being offered: Free software application, uses static analysis to identify potentially unwanted Russian and Belorussian software, dynamic analysis to monitor outgoing traffic to detect and block unwanted connections to Russian servers.
+
+Who is eligible: All.
+
+How are the services accessed: https://research.macpaw.com/spy-buster/
+
 ### Hypasec (Chris Kubecka)
 
 Source of information: [GitHub issue](https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine/issues/20)
