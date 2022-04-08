@@ -95,6 +95,19 @@ Who is eligible: All.
 
 How are the services accessed: https://research.macpaw.com/spy-buster/
 
+### CybelAngel
+
+Source of information: https://cybelangel.com/blog/message-on-ukraine/
+
+Services being offered: Cybelangel offers 24/7 monitoring services to detect cyber exposure of critical assets at no charge
+
+Who is eligible:
+
+* Ukrainian private companies who wish to asses their digital exposure in Ukraine
+* NGOs active in the war who wish to minimize the risks of their missions being interrupted by cyber attacks
+
+How are the services accessed: Please first contact standing-together@cybelangel.com, afterwards, access will be granted to CybelAngel's SaaS platform
+
 ### Hypasec (Chris Kubecka)
 
 Source of information: [GitHub issue](https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine/issues/20)
