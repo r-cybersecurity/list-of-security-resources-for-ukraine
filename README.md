@@ -118,6 +118,21 @@ Who is eligible: All western companies in the United States and in the European 
 
 How are the services accessed: Request access at https://hyperproof.io/cyber-defense-solution/ A rep from Hyperproof will be in touch with the person who made the request, have a quick call to confirm key details including eligibility, and then provision the software to any eligible organization.
 
+### Vectra AI
+
+Source of information: https://www.vectra.ai/forms/complimentary-security-tools-services-in-response-to-the-conflict-in-ukraine
+
+Services being offered: Threat detection and response in hybrid and multi-cloud enterprises:
+
+* Scan Microsoft Azure AD and M365 environments for signs of attack activities
+* Monitor AWS infrastructure for signs of active attacks, in addition to provision of detection and response for both the network and control plane of AWS accounts
+* Surveil network infrastructure both on-premises and in the cloud for signs of attack, including deployment of Vectra sensors that are purpose-built to detect malicious behavior
+* Support the retention of historical metadata to aid incident response investigations based on indicators of compromise (IOCs) for specific attack variants.
+
+Who is eligible: any organizations who believe they may be targeted as a result of the current conflict
+
+How are the services accessed: Fill out [this form](https://www.vectra.ai/forms/complimentary-security-tools-services-in-response-to-the-conflict-in-ukraine) to access the Complimentary Security Tools & Services
+
 ### Hypasec (Chris Kubecka)
 
 Source of information: [GitHub issue](https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine/issues/20)
