@@ -133,16 +133,6 @@ Who is eligible: any organizations who believe they may be targeted as a result 
 
 How are the services accessed: Fill out [this form](https://www.vectra.ai/forms/complimentary-security-tools-services-in-response-to-the-conflict-in-ukraine) to access the Complimentary Security Tools & Services
 
-### Hypasec (Chris Kubecka)
-
-Source of information: [GitHub issue](https://github.com/r-cybersecurity/list-of-security-resources-for-ukraine/issues/20)
-
-Services being offered: Incident Response services
-
-Who is eligible: EU-based NATO members, Ukranians, journalists, other
-
-How are the services accessed: by email form or phone call listed on hypasec.com
-
 ### Intelligence X
 
 Source of information: https://twitter.com/_IntelligenceX/status/1497671064054288384
